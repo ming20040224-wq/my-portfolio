@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>XXX的数字花园 | 数据 x 营销 x AI</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on XXX的数字花园 | 数据 x 营销 x AI</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 15 Apr 2026 14:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>实战案例：西湖龙井 DTC 独立站营销策划与预售</title>
+      <link>http://localhost:1313/portfolio/dtc-marketing-case/</link>
+      <pubDate>Wed, 15 Apr 2026 13:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/portfolio/dtc-marketing-case/</guid>
+      <description>&lt;h2 id=&#34;项目背景&#34;&gt;项目背景&lt;/h2&gt;
+&lt;p&gt;打破传统第三方电商平台的流量依赖，为西湖龙井明前茶构建 Direct-to-Consumer (DTC) 的私域销售闭环。&lt;/p&gt;
+&lt;h2 id=&#34;核心策略&#34;&gt;核心策略&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;全渠道引流：&lt;/strong&gt; 结合 GEO/SEO 策略，产出对比分析文章，截流搜索需求。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;独立站转化：&lt;/strong&gt; 设计专属营销落地页，配合网站红包插件刺激首单转化。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据沉淀：&lt;/strong&gt; 实现用户数据的私有化，为后续复购建立基础。&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>实证研究：基于 Fama-French 三因子模型的电力上市公司收益分析</title>
+      <link>http://localhost:1313/portfolio/quant-research/</link>
+      <pubDate>Wed, 15 Apr 2026 14:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/portfolio/quant-research/</guid>
+      <description>&lt;h2 id=&#34;研究聚焦&#34;&gt;研究聚焦&lt;/h2&gt;
+&lt;p&gt;在剥离供热企业的基础上，纯粹针对电力行业上市公司的异质性进行深度分析。&lt;/p&gt;
+&lt;h2 id=&#34;技术路线&#34;&gt;技术路线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;数据处理：&lt;/strong&gt; 梳理核心文献与因子数据。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;模型验证：&lt;/strong&gt; 使用 Stata 运行 Fama-MacBeth 回归分析。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;结论输出：&lt;/strong&gt; 验证三因子模型在特定能源细分市场的有效性与局限。&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

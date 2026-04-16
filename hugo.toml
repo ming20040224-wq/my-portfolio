@@ -1,0 +1,43 @@
+baseURL = 'https://yoursite.com/'
+languageCode = 'zh-cn'
+title = 'XXX的数字花园 | 数据 x 营销 x AI'
+theme = 'pm-theme'
+
+# 全局基础设置
+[params]
+  defaultTheme = "auto" # 自动跟随系统切换深色/浅色模式
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowToc = true # 文章显示目录
+
+# 开启主页“个人简介”模式 (非常适合个人网站)
+[params.profileMode]
+  enabled = true
+  title = "Hi, 我是 XXX 👋"
+  subtitle = "懂量化分析的 DTC 营销操盘手 / 探索本地大模型部署的极客"
+  
+  # 配置主页的两个显眼按钮
+  [[params.profileMode.buttons]]
+    name = "过往项目 (Portfolio)"
+    url = "/portfolio/"
+  [[params.profileMode.buttons]]
+    name = "阅读文章 (Blog)"
+    url = "/posts/"
+
+# 配置顶部导航栏
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "关于我"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "项目集"
+    url = "/portfolio/"
+    weight = 20
+  [[menu.main]]
+    identifier = "posts"
+    name = "博客随笔"
+    url = "/posts/"
+    weight = 30
