@@ -1,4 +1,6 @@
 baseURL = 'https://yoursite.com/'
+buildDrafts = true
+buildFuture = true
 languageCode = 'zh-cn'
 title = 'XXX的数字花园 | 数据 x 营销 x AI'
 theme = "PaperMod"
