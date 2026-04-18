@@ -1,6 +1,6 @@
 ---
 title: "关于我"
-date: 2026-04-17
+date: 2023-01-01
 draft: false
 # 如果你想放头像，把照片命名为 avatar.jpg 放到根目录的 static 文件夹里，然后把下面两行前面的 # 删掉
 # cover:
